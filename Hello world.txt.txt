@@ -1,5 +1,4 @@
 print ("Hello world!");
 print ("Hello everybody");
 
-
-print ("Hi! Hi!");
+print("Hi-hi!");
